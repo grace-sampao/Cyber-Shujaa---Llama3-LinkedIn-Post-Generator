@@ -1,0 +1,12 @@
+# Web Application Framework
+streamlit
+
+# LLM Framework
+langchain-core
+langchain
+
+# Groq Integration
+groq
+
+# Environment Variable Management
+python-dotenv

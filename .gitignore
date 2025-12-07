@@ -1,0 +1,5 @@
+# Ignore the virtual environment
+llama3_linkedin_post_generator/
+
+# Ignore the file containing secrets (API Keys)
+.env
