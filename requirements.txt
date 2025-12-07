@@ -4,6 +4,7 @@ streamlit
 # LLM Framework
 langchain-core
 langchain
+langchain-groq
 
 # Groq Integration
 groq
