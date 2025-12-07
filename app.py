@@ -34,7 +34,7 @@ if st.button("✨ Generate LinkedIn Post", type="primary"):
     # Show a loading spinner while the LLM is working:
     with st.spinner("Generating highly engaging post with Llama3.2..."):
       # Simulate the speed of Groq:
-      time.sleep()
+      time.sleep(0.5)
 
       try:
         # Call the core LLM function from src/llm_service.py:
