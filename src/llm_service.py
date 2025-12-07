@@ -15,7 +15,7 @@ if not GROQ_API_KEY:
 llm = ChatGroq(
   temperature=0.7,
   groq_api_key=GROQ_API_KEY,
-  model_name="llama-3.2-8b-instruct-fp8"
+  model_name="llama-3.1-8b-instant"
 )
 
 # Define the Prompt Template:
